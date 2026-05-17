@@ -3,4 +3,5 @@ title: "my-first-blog"
 date: 2026-05-17
 ---
 
-who else want to learn solidity smart contract development, start with cyfrin updraft.
+i'm currenlty building projects and learning security and auditing, 
+done cyfrin updraft up to advanced foundry.
