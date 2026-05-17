@@ -1,6 +1,11 @@
 ---
 title: Welcome to my blog!
+layout: post
+permalink: /my-first-blog/
+published: true
 ---
 
-want to know more about me
+Hello world
+
+
 
